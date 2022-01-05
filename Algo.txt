@@ -1,5 +1,7 @@
-select pizza resteraunt 
-select pizza type
-select paying option
-type in address
-enjoy pizza
+1.select pizza resteraunt 
+2.select pizza type
+3.select paying option
+4.type in address
+5. enjoy pizza
+6. throw away box
+7. bask in your glory
